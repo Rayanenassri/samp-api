@@ -3,7 +3,7 @@ const net = require('net');
 // Replace 'your_server_ip', 'your_server_port', and 'your_server_password' with actual values.
 const serverIP = '23.88.73.88';
 const serverPort = '9815';
-const serverPassword = 'feaab87d42121bad';
+const serverPassword = '1155';
 
 // List of random names (adjust as needed)
 const randomNames = [
